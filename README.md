@@ -1,2 +1,2 @@
 # econ502
-Second trimester MBA macroeconomics
+Second trimester MBA macroeconomics course.
